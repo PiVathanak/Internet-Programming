@@ -1,2 +1,5 @@
 Version 2
+<<<<<<< HEAD
 print(hello world)
+=======
+>>>>>>> 2689f3c117fc160e397993013cef5c77b9f383fe
